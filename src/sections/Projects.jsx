@@ -10,10 +10,7 @@ const projects = [
     title: "TechademyOne",
     description: [
       "Configured SAML 2.0 authentication using Keycloak as Identity Provider and enforced role-based access control across the application.",
-      "Includes sales analytics and charts.",
-      "Real-time updates using SignalR.",
-      "Role-based access control.",
-      "Connected to SQL database.",
+      "Built an adaptive assessment platform with configurable skill selection, automated question randomization, ability score computation, and detailed performance visualizations for insightful skill evaluation.",      
     ],
     tech: ["React.js", "Redux", "Redux-Saga", "JavaScript"],
     link: "#",
@@ -22,11 +19,10 @@ const projects = [
    {
     title: "Techademy Campus (B2A)",
     description: [
-      "Built with React and Tailwind CSS.",
-      "Smooth animations using Framer Motion.",
-      "Fully responsive across devices.",
-      "Deployed on GitHub Pages.",
-      "Includes project showcase & contact form.",
+      "Implemented dynamic timetable feature for scheduling and viewing events.",
+      "Integrated MOOC courses feature, enabling users to browse, enroll, and track course progress with interactive modules and search/filter functionality for enhanced learning engagement.",
+      "Implemented course content feature, enabling students to provide feedback on specific courses.",
+     
     ],
     tech: ["React.js", "Redux", "Redux-Saga", "JavaScript"],
     link: "#",
@@ -35,11 +31,9 @@ const projects = [
   {
     title: "Techademy B2B",
     description: [
-      "Automates internal workflows.",
-      "Built with Power Apps and Power Automate.",
-      "Integrates with SharePoint lists.",
-      "Uses Azure services for security.",
-      "Low-code/no-code development approach.",
+      "Developed the full trainer role, including course creation, assignment management, and trainee progress tracking.",
+      "Customized project themes to match client branding, including original website colors and styles, enhancing accessibility and visual consistency.",
+      "Developed learning indices to track and analyze learner progress, enabling data-driven insights and performance evaluation."
     ],
     tech: ["React.js", "Redux", "Redux-Saga", "JavaScript"],
     link: "#",

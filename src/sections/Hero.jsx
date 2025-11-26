@@ -68,7 +68,7 @@ export default function HeroSection() {
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <motion.a
             whileHover={{ scale: 1.05 }}
-            href="/Prajwal_resume_2025.pdf"
+            href="/Prajwal Padmaraj Patil.pdf"
             download
             className="px-6 py-3 rounded-full bg-yellow-400 text-black font-semibold shadow-md"
           >
